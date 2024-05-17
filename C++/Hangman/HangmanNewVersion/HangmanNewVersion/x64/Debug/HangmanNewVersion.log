@@ -1,0 +1,4 @@
+﻿  HangmanNewVersion.cpp
+C:\Users\Neftali Enriquez\Desktop\C++\Hangman\HangmanNewVersion\HangmanNewVersion\HangmanNewVersion.cpp(53,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Neftali Enriquez\Desktop\C++\Hangman\HangmanNewVersion\HangmanNewVersion\HangmanNewVersion.cpp(234,23): warning C4553: '==': result of expression not used; did you intend '='?
+  HangmanNewVersion.vcxproj -> C:\Users\Neftali Enriquez\Desktop\C++\Hangman\HangmanNewVersion\x64\Debug\HangmanNewVersion.exe

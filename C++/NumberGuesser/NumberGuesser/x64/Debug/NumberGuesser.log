@@ -1,0 +1,5 @@
+﻿  NumberGuesser.cpp
+C:\Users\Neftali Enriquez\Desktop\C++\NumberGuesser\NumberGuesser\NumberGuesser.cpp(107,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Neftali Enriquez\Desktop\C++\NumberGuesser\NumberGuesser\NumberGuesser.cpp(120,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Neftali Enriquez\Desktop\C++\NumberGuesser\NumberGuesser\NumberGuesser.cpp(122,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  NumberGuesser.vcxproj -> C:\Users\Neftali Enriquez\Desktop\C++\NumberGuesser\x64\Debug\NumberGuesser.exe
